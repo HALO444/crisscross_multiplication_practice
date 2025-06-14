@@ -6,3 +6,7 @@ Crisscross multiplication is a mental math method often used in Vedic Math to mu
 It breaks the multiplication process into parts, working from left to right in a pattern that “crisscrosses” between digits.
 The method focuses on breaking numbers down into digits and multiplying them in a cross pattern, then adding partial results to get the final answer.
 It’s known for speed, pattern recognition, and being useful in mental calculation.
+
+![image](https://github.com/HALO444/crisscross_multiplication_practice/blob/main/diagram.png)
+
+image from [Brett Berry](https://medium.com/i-math/solve-it-in-5-18-seconds-b6c10a10c89)
